@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dulmi Proboda </h1>
+<h1 align="center">Hi 👋, I'm Dulmi Prabodha </h1>
 
 <h3 align="center">A  Software Developer from Srilanka</h3>
 
